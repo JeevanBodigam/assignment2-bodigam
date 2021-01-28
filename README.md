@@ -15,3 +15,9 @@ The aroma of cooking Biryani wafting from the kitchen is enough to make you droo
 4. Make your public or private as per your requirement
 5. Initialize your repo with readme or .gitognore or license.
 6. Click on Create Repository
+7. Required Items
+    * An account on github.com
+    * Check Internet Connectivity
+    * Good name for your Repo
+        * Should describe your project
+        * No fancy Names
