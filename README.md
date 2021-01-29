@@ -17,7 +17,7 @@ The aroma of cooking Biryani wafting from the kitchen is enough to make you droo
 6. Click on Create Repository
 
 * Required Items
-    * An account on github.com
+    * An account on <https://github.com>
     * Check Internet Connectivity
     * Good name for your Repo
         * Should describe your project
