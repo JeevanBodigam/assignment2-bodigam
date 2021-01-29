@@ -35,11 +35,11 @@ The table below shows the list of cities that one can travel in US.This table al
 
 |Location | Number of Hours | Amount |
 |:-------:|:---------------:|:------:|
-| ![New York](/images/ny.jpg) |  8 | 500 $ |
-| ![Las Vegas](/images/lv.jpg) | 7 | 350 $ |
-| ![San Fransisco](sanfran.jpg)| 5 | 400 $ |
-| ![Los Angeles](/images/la.jpg) | 10 | 700 $ |
-| ![Missouri](/images/missouri) | 5 | 250 $ |
+| [New York](/images/ny.jpg) |  8 | 500 $ |
+| [Las Vegas](/images/lv.jpg) | 7 | 350 $ |
+| [San Fransisco](sanfran.jpg)| 5 | 400 $ |
+| [Los Angeles](/images/la.jpg) | 10 | 700 $ |
+| [Missouri](/images/missouri) | 5 | 250 $ |
 
 ---
 
