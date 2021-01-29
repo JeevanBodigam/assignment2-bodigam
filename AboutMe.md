@@ -23,11 +23,11 @@ The table below shows the list of cities that one can travel in US.This table al
 ---
 
 ## Pithy Quotes
-> Life is what happens when you're busy making other plans.
+> Life is what happens when you're busy making other plans. <br>
 \- *John Lennon*
 
-> Whoever is happy will make others happy too.
+> Whoever is happy will make others happy too. <br>
 \- *Anne Frank*
 
-> You will face many defeats in life, but never let yourself be defeated.
+> You will face many defeats in life, but never let yourself be defeated. <br>
 \- *Maya Angelou*
