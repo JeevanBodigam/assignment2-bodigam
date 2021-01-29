@@ -8,7 +8,7 @@ The aroma of cooking Biryani wafting from the kitchen is enough to make you droo
 
 ## How to create a repository on github
 1. Go to https://github.com
-2. 2 ways to create a repo [See Here](/imges/createRepo.PNG)
+2. 2 ways to create a repo [See Here](/images/createRepo.PNG)
     1. Click on new button on the home screen
     2. Click on the + icon on top right and select New Repository
 3. Give a valid [name](/images/nameImage.PNG) for your repo
