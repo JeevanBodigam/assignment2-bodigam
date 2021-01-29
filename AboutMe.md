@@ -5,7 +5,7 @@ I am a quick learner. I am always keen about minute things. A music lover.Loves 
 
 I have done my undegraduation in India. I worked as Software Engineer for an year and also done some freelancing projects on full stack.A self-learner and a teacher.
 
-![Image of R2D2 from Starwars](https://github.com/JeevanBodigam/assignment2-bodigam/blob/main/R2D2.jpg)
+![Image of R2D2 from Starwars](/ProfilePic.jpeg)
 
 ----
 
