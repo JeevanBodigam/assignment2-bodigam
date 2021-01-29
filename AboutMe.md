@@ -34,3 +34,38 @@ The table below shows the list of cities that one can travel in US.This table al
 > You will face many defeats in life, but never let yourself be defeated. 
 
 \- *Maya Angelou*
+
+---
+
+## Introduction to Unix Shell 
+
+> In Unix, the shell is a program that interprets commands and acts as an intermediary between the user and the inner workings of the operating system. 
+> A shell hides the details of the underlying operating system and manages the technical details of the operating system kernel interface, which is the lowest-level, or "inner-most" component of most operating systems.
+
+**Source:**
+1. <https://en.wikipedia.org/wiki/Unix_shell>
+2. <https://kb.iu.edu/d/agvf>
+
+```
+# sendEmail Function - mail & exit.
+START=$(date +%s)
+sendEmail() {
+	scripttime=0;
+	END=$(date +%s)
+	DIFF=$(( $END - $START ))
+	if [ $DIFF -le 60 ]; then
+		scripttime="$DIFF seconds.";
+	else
+		DIFF=$(( $DIFF / 60 ))
+		scripttime="$DIFF minutes.";
+	fi;
+	content="$content. Exec Time: $scripttime"
+	echo $content | mail -s "$subject" $email_list
+	exit;
+}
+# sendEmail Function - end.
+
+```
+
+Ref:  <https://kedar.nitty-witty.com/blog/10-useful-shell-script-code-snippets-linux>
+
