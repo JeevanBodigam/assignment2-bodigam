@@ -19,3 +19,13 @@ The table below shows the list of cities that one can travel in US.This table al
 | San Fransisco| 5 | 400 $ |
 | Los Angeles | 10 | 700 $ |
 | Missouri | 5 | 250 $ |
+
+---
+
+## Pithy Quotes
+> Life is what happens when you're busy making other plans.
+\- *John Lennon*
+> Whoever is happy will make others happy too.
+\- *Anne Frank*
+> You will face many defeats in life, but never let yourself be defeated.
+\- *Maya Angelou*
