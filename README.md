@@ -23,11 +23,6 @@ The aroma of cooking Biryani wafting from the kitchen is enough to make you droo
         * Should describe your project
         * No fancy Names
 
-
-Look what I got [My Profile](https://github.com/JeevanBodigam/assignment2-bodigam/blob/main/AboutMe.md)
-
-
-
 ----
 
 ## Best Places to Visit:
@@ -89,3 +84,6 @@ sendEmail() {
 ```
 
 Ref:  <https://kedar.nitty-witty.com/blog/10-useful-shell-script-code-snippets-linux>
+
+
+Look what I got [My Profile](https://github.com/JeevanBodigam/assignment2-bodigam/blob/main/AboutMe.md)
