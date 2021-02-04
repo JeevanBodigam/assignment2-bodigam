@@ -11,10 +11,10 @@ The aroma of cooking Biryani wafting from the kitchen is enough to make you droo
 2. 2 ways to create a repo [See Here](/images/createRepo.PNG)
     1. Click on new button on the home screen
     2. Click on the + icon on top right and select New Repository
-3. Give a valid [name](/images/nameImage.PNG) for your repo
+3. Give a valid name for your repo  ![name](/images/nameImage.PNG)
 4. Make your public or private as per your requirement
 5. Initialize your repo with readme or .gitognore or license.![See Here](/images/markdown.PNG)
-6. Click on [Create Repository](/images/createbutton.PNG)
+6. Click on Create Repository  ![Create Repository](/images/createbutton.PNG)
 
 * Required Items
     * An account on <https://github.com>
